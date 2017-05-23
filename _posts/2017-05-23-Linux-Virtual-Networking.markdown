@@ -5,8 +5,6 @@ date:   2017-05-23 16:52:49 +0800
 categories: container
 ---
 
-# linux.virtual.networking  
-
 参见[CSDN 博文](http://blog.csdn.net/dog250/article/details/45788279)  
 
 ## VETH  
