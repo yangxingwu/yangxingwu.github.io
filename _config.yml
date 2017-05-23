@@ -16,10 +16,10 @@
 title: yangxw
 email: xingwu.yang@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    码农，好读书，好为人师；在这里分享自己的所思、所读、所想
+    分享自己的所思、所读、所想
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  https://github.com/yangxingwu
+github_username:  yangxingwu
 
 # Build settings
 markdown: kramdown
